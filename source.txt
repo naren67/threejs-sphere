@@ -1,0 +1,17 @@
+https://github.com/designcourse/threejs-webpack-starter
+
+camera types
+-orthographic camera - isometric view
+
+geomentry
+-SphereBufferGeometry-https://threejs.org/docs/#api/en/geometries/SphereGeometry
+
+material
+-MeshStandardMaterial-https://threejs.org/docs/#api/en/materials/MeshStandardMaterial
+
+adding shape to the material
+-normal map - pinkish purpleish grayscaled images
+
+note - (we can get a grayscled image and convert it to normal map)
+ex- jpg to normal map
+normla map convert - https://cpetry.github.io/NormalMap-Online/
